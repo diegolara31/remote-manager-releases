@@ -34,5 +34,5 @@ For any questions, feedback, or issues, please open an issue on GitHub or contac
 
 ## Screenshots
 
-[Cloud Mode](https://github.com/user-attachments/assets/91099876-adc8-46f5-b0a9-cdfe5158056d)
-[Local Mode](https://github.com/user-attachments/assets/144e0394-4430-478a-8135-689920d5eb6c)
+![Cloud Mode](https://github.com/user-attachments/assets/91099876-adc8-46f5-b0a9-cdfe5158056d)
+![Local Mode](https://github.com/user-attachments/assets/144e0394-4430-478a-8135-689920d5eb6c)
