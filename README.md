@@ -26,7 +26,7 @@ This repository contains the latest updates for Remote Manager. It includes the 
 
 ## Known Issues
 
-- The app tray menu may show unsynced data as it could show unticked some functions that may be working as expected(like using the cloud mode with the cloud check unticked)
+- The app tray menu may display unsynced data, such as showing certain functions as unticked, even though they are functioning as expected (e.g., using cloud mode with the cloud option unchecked).
 
 ## Contact
 
