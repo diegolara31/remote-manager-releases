@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1377a188-252e-498b-893b-a64e4a42de4a)# App Updates - Windows Executables
+##Remote Manager -  releases repo
 
 This repository contains the latest updates for Remote Manager. It includes the most recent updates, bug fixes, and new features.
 
@@ -34,5 +34,5 @@ For any questions, feedback, or issues, please open an issue on GitHub or contac
 
 ## Screenshots
 
-[App screenshot](![image](https://github.com/user-attachments/assets/91099876-adc8-46f5-b0a9-cdfe5158056d)
-[App screenshot](![image](![image](https://github.com/user-attachments/assets/144e0394-4430-478a-8135-689920d5eb6c)
+[Cloud Mode](https://github.com/user-attachments/assets/91099876-adc8-46f5-b0a9-cdfe5158056d)
+[Local Mode](https://github.com/user-attachments/assets/144e0394-4430-478a-8135-689920d5eb6c)
