@@ -13,20 +13,14 @@ This repository contains the latest updates for Remote Manager. It includes the 
 
 ## Latest Release
 
-### v3.1.0 - Released 2024-11-23
-- **App Launching Multiple Instances:**  
-  Fixed an error that caused the app to launch two separate instances on boot.
+### v3.1.1 - Released 2024-12-28
 
-- **Account Creation Error (Cloud Mode):**  
-  Fixed an issue during the setup process that prevented users from creating an account to use the cloud mode inside the app.
-
-- **Local Mode Bug:**  
-  Fixed a bug where the local mode would not function properly unless the save button was clicked while switching between local and cloud modes.
-
+  - Multiple bugs fixed
+  - Changes to auto updater
 
 ## Known Issues
 
-- The app tray menu may display unsynced data, such as showing certain functions as unticked, even though they are functioning as expected (e.g., using cloud mode with the cloud option unchecked).
+- N/A
 
 ## Contact
 
