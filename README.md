@@ -13,16 +13,32 @@ This repository contains the latest updates for Remote Manager. It includes the 
 
 ## Latest Release
 
-### v3.3.5 - Released 2024-02-08
+### v4.0.0 - Released 2025-06-08
 
-*   **Multilingual Support:** Added support for three languages:
-    *   English
-    *   Spanish
-    *   French
+# Announcing the Next Generation of Remote Manager
 
-*   **Optimizations:** Implemented multiple performance enhancements.
+We are thrilled to announce a completely new version of Remote Manager! This isn't just an update; it's a complete rewrite from the ground up, allowing us to introduce powerful new capabilities and a vastly improved user experience.
 
-*   **Bug Fixes:** Resolved various identified issues.
+## ✨ Major New Features
+
+### 🖥️ Full Remote Desktop Control
+Visually interact with your remote machines as if you were sitting right in front of them. Our new Remote Desktop feature provides seamless, secure graphical access.
+
+### ⚡ Integrated Shell Access
+Execute commands and manage servers directly from the web interface with our new, fully-featured shell. It's powerful, responsive, and secure.
+
+### 🔔 Advanced Alerting System
+Stay informed about critical events with our brand-new alert system. You can now configure and receive notifications directly in the **web interface** and via **email**.
+
+## 🚀 Core Improvements
+
+*   **Completely Redesigned Web Interface:** The web GUI has been rebuilt with a focus on usability, clarity, and speed. Manage your devices with our modern and intuitive new design.
+*   **Enhanced Security:** With security as a top priority, the new architecture provides a more robust and secure foundation for all operations.
+*   **Streamlined User Experience:** While the app's core functionality remains familiar, the entire user journey has been refined for ease of use and efficiency.
+
+We're incredibly proud of this release and can't wait for you to experience the new Remote Manager.
+
+---
 
 ## Known Issues
 
@@ -30,9 +46,8 @@ This repository contains the latest updates for Remote Manager. It includes the 
 
 ## Contact
 
-For any questions, feedback, or issues, please open an issue on GitHub or contact me at: [me@delg.cc](mailto:me@delg.cc).
+For any questions, feedback, or issues, please open an issue on GitHub or contact me at: [me@delg.cc](mailto:me@delg.dev).
 
 ## Screenshots
 
-![Cloud Mode](https://github.com/user-attachments/assets/91099876-adc8-46f5-b0a9-cdfe5158056d)
-![Local Mode](https://github.com/user-attachments/assets/144e0394-4430-478a-8135-689920d5eb6c)
+![v4](https://i.ibb.co/8n3hg53G/Screenshot-1.png)
