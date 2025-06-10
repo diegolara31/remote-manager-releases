@@ -13,7 +13,7 @@ This repository contains the latest updates for Remote Manager. It includes the 
 
 ## Latest Release
 
-### v4.0.0 - Released 06/09/2025
+### v4.0.0 - Released 06/10/2025
 
 # Announcing the Next Generation of Remote Manager
 
