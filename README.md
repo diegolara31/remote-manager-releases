@@ -13,30 +13,20 @@ This repository contains the latest updates for Remote Manager. It includes the 
 
 ## Latest Release
 
-### v4.0.0 - Released 06/10/2025
+### v4.0.1 - Released 06/10/2025
 
-# Announcing the Next Generation of Remote Manager
+This is a maintenance release that addresses critical bugs related to application stability and connection handling, and introduces a new quality-of-life feature for a smoother user experience.
 
-We are thrilled to announce a completely new version of Remote Manager! This isn't just an update; it's a complete rewrite from the ground up, allowing us to introduce powerful new capabilities and a vastly improved user experience.
+#### **New Features**
 
-## ✨ Major New Features
+*   **Manual Connection Retry:** In the event of a failed connection attempt, a "Retry" button will now be displayed. This allows users to attempt to reconnect immediately without having to restart the application or the connection process.
 
-### 🖥️ Full Remote Desktop Control
-Visually interact with your remote machines as if you were sitting right in front of them. Our new Remote Desktop feature provides seamless, secure graphical access.
+#### **Bug Fixes and Improvements**
 
-### ⚡ Integrated Shell Access
-Execute commands and manage servers directly from the web interface with our new, fully-featured shell. It's powerful, responsive, and secure.
+*   **Application Stability:** Resolved a major bug where the "Quit" button would become unresponsive, preventing users from closing the application correctly. The application now exits as expected.
+*   **Connection Reliability:** Addressed several issues within the connection API to significantly improve the stability and success rate of remote connections. This change reduces the likelihood of connection timeouts and unexpected disconnections.
 
-### 🔔 Advanced Alerting System
-Stay informed about critical events with our brand-new alert system. You can now configure and receive notifications directly in the **web interface** and via **email**.
-
-## 🚀 Core Improvements
-
-*   **Completely Redesigned Web Interface:** The web GUI has been rebuilt with a focus on usability, clarity, and speed. Manage your devices with our modern and intuitive new design.
-*   **Enhanced Security:** With security as a top priority, the new architecture provides a more robust and secure foundation for all operations.
-*   **Streamlined User Experience:** While the app's core functionality remains familiar, the entire user journey has been refined for ease of use and efficiency.
-
-We're incredibly proud of this release and can't wait for you to experience the new Remote Manager.
+We recommend all users update to this version to benefit from these improvements. Thank you for using Remote Manager
 
 ---
 
